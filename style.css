@@ -23,6 +23,27 @@ section {
 .chamada-texto {
   margin-right: 5%;
 }
+section {
+  background: rgb(184, 156, 213);
+  padding-bottom: 80px;
+  padding-top: 80px;
+  display: flex;
+  justify-content: center;
+}
+
+/* código omitido */
+
+section {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.chamada {
+  background: rgb(184, 156, 213);
+  padding-bottom: 80px;
+  padding-top: 80px;
+  display: flex;
+  justify-content: center;
+}
 
 h1 {
   font-size: 40px;
